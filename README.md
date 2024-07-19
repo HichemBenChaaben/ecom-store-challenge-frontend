@@ -25,6 +25,7 @@ In this step you are going to use the fake api store as a backend api from https
 - create a product listing page that consumes the api, the product listing page should display all the products
 - add a basic layout to the page, here we are displaying 3 products per column (refer to the mockup)
 - once the user click on a product, he should be redirected to the product details page
+- each product card should display the image of the product, the title, description and price from the api
 
 ### 3 - product details page
 - create a product details page using the endpoint `get single product` from the fake api store
@@ -40,3 +41,7 @@ In this step you are going to use the fake api store as a backend api from https
 ## 5 Bonus
 
 - Implement change quantity component to allow users change quantity
+
+## Mockup
+
+!["mockup"](mockup.png)
